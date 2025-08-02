@@ -1,7 +1,6 @@
 # 爬爬虾学习Github  
 
-## 课程主要内容有  
-
+## 课程主要内容有  （今天星期几？）
 1. 课程综述  （这是什么）
 2. 什么是Git / Github  
 3. 国内畅联Github  
@@ -19,4 +18,5 @@
 15. 分支合并rebase、merge、squash merge  
 16. Pull Request  
 17. Github做开源贡献的基本流程  
-18. 在IDE里面使用Git  
+18. 在IDE里面使用Git  SDASDA
+NI
